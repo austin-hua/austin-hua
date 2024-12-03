@@ -20,4 +20,3 @@ Check out my personal website below for a runthrough of my projects (link on pro
 Also, feel free to send me an email for collaboration ideas.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austin-hua&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-Warning
