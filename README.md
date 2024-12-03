@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hey there!\
 I'm currently learning to become a full-stack developer and ML engineer. I'm also passionate about applying creative AI solutions to solve real-world problems.\
-Check out my personal website below for a runthrough of my projects (link on profile)\
+Check out my personal website below for a runthrough of my projects (link on this profile page).\
 Also, feel free to send me an email for collaboration ideas.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austin-hua&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
