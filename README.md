@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hey there!\
 I'm Seth Austin Harding, and my alias is Austin Hua. I'm a tech futurist and engineer; my expertise ranges from AI and blockchain to quantum hardware and neuroengineering. I'm bilingual in Chinese and English, and I mainly live in Taipei and D.C.\
-Check out (my portfolio website austinhua.com)[https://austinhua.com] below for a runthrough of my experiences.\
+Check out (my portfolio website austinhua.com below for a runthrough of my experiences.\
 Feel free to send me an email for collaboration ideas.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austin-hua&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
