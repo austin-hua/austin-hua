@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hey there!\
-I'm currently learning to become a full-stack developer and ML engineer. I'm also passionate about applying creative AI solutions to solve real-world problems.\
-Check out my personal website below for a runthrough of my projects (link on this profile page).\
-Also, feel free to send me an email for collaboration ideas.
+I'm Seth Austin Harding, and my alias is Austin Hua. I'm a tech futurist and engineer; my expertise ranges from AI and blockchain to quantum hardware and neuroengineering. I'm bilingual in Chinese and English, and I mainly live in Taipei and D.C.\
+Check out my portfolio website below for a runthrough of my experiences (link on this profile page).\
+Feel free to send me an email for collaboration ideas.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austin-hua&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
